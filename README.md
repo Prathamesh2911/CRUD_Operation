@@ -26,7 +26,7 @@ This is a simple CRUD (Create, Read, Update, Delete) web application for managin
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+gh repo clone Prathamesh2911/CRUD_Operation
 ```
 Open the `index.html` file in any modern web browser.
 

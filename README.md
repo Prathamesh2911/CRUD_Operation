@@ -62,6 +62,6 @@ You can test this CRUD app locally by cloning the repository and opening the `in
 
 ## OUTPUT
 
-<img src="![CRUD_Operation](https://github.com/user-attachments/assets/9ca6b510-a0a5-4005-8614-813c424aeca1)" alt="Alt text for the GIF" />
+![CRUD_Operation](https://github.com/user-attachments/assets/9ca6b510-a0a5-4005-8614-813c424aeca1)  
 
 
